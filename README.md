@@ -34,5 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="Xml" alt="Xml" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 </div>
+
 ### ООП, CRUD, Layouts, View Binding, LiveData, Fragments, Recycle View, Lifecycle, MVVM, умею разбираться в чужом коде
 
