@@ -35,5 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
 </div>
 
-### ООП, CRUD, Layouts, View Binding, LiveData, Fragments, Recycle View, Lifecycle, MVVM, умею разбираться в чужом коде
+### ООП, CRUD, Layouts, View Binding, LiveData, Fragments, Recycle View, Lifecycle, MVVM
+
+### Умею разбираться в чужом коде.
 
